@@ -9,6 +9,7 @@ public class Contador {
 
         try {
             // chamar metodo de contagem
+            contar(parametroUm, parametroDois);
         } catch (Exception e) {
             // TODO: handle exception
         }
